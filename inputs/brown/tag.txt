@@ -1,0 +1,3 @@
+PRO V N
+N V N
+N V PRO

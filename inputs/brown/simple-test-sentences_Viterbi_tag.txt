@@ -1,0 +1,5 @@
+PRO V DET N P DET N . 
+PRO MOD V P DET N . 
+PRO V DET N V P DET N . 
+PRO V DET N V ADJ . 
+PRO N V DET N . 
